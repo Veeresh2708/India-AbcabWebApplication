@@ -18,4 +18,16 @@
   <build>
     <finalName>AbcabWebApplication</finalName>
   </build>
+  <distributionManagement>
+    <repository>
+        <id>central</id>
+        <name>aolshared2a-releases</name>
+        <url>https://vijju.jfrog.io/vijju/Maven_local</url>
+    </repository>
+    <snapshotRepository>
+        <id>snapshots</id>
+        <name>aolshared2a-snapshots</name>
+        <url>https://vijju.jfrog.io/vijju/Maven_local</url>
+    </snapshotRepository>
+</distributionManagement>
 </project>
