@@ -21,12 +21,12 @@
   <distributionManagement>
     <repository>
         <id>central</id>
-        <name>AbcabWebApplication-releases</name>
+        <name>aolshared2a-releases</name>
         <url>https://vijju.jfrog.io/vijju/Maven_local</url>
     </repository>
     <snapshotRepository>
         <id>snapshots</id>
-        <name>AbcabWebApplication-snapshots</name>
+        <name>aolshared2a-snapshots</name>
         <url>https://vijju.jfrog.io/vijju/Maven_local</url>
     </snapshotRepository>
 </distributionManagement>
